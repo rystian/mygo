@@ -1,0 +1,1 @@
+Because go is so much interesting, decided to learn and master it
